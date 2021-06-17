@@ -163,6 +163,9 @@
       <script>scripts\scr_music_change.gml</script>
     </scripts>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\fnt_main</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_main</object>
     <object>objects\obj_player</object>
