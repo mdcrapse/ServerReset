@@ -208,6 +208,9 @@ if plr != noone {
             <kind>1</kind>
             <string>///spawn enemies
 
+// for debugging
+
+/*
 repeat 5 {
     var dir = irandom(360);
     instance_create(
@@ -233,6 +236,7 @@ instance_create(
     obj_player.x + lengthdir_x(room_width, dir),
     obj_player.y + lengthdir_y(room_width, dir),
     obj_fatbot);
+*/
 
 </string>
           </argument>
